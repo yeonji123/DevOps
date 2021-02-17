@@ -11,3 +11,4 @@ import System.
 
 ###수정 3
 
+###sum이랑 add 변경
